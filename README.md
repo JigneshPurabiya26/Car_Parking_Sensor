@@ -12,6 +12,8 @@ In order to create this project we only need a handful of cheap components which
 
 On assembling this component we need to then write a code for the machine to detect the objects, the code is to be written in the Arduino IDE and then it should be uploaded in the Arduino UNO Micro-controller.Below is the video displaying the working of the project when kept in front of an obstacle for example:- Wall.
 
+![car_parking](https://user-images.githubusercontent.com/98510767/179365160-2575449a-1c74-4ec1-8db2-9051d7dd5e09.jpg)
+
 
 https://user-images.githubusercontent.com/98510767/178098317-dbdfdf8c-863a-4696-810d-88f4c9f50e85.mp4
 
